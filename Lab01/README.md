@@ -75,7 +75,7 @@ Connect to the VM via RDP and install the AD DS role:
 
 - Complete the installation (do not promote yet)
 
-<img width="512" height="288" alt="image" src="https://github.com/user-attachments/assets/86a1fe4c-fe55-4e66-9d9a-7b82ad024c61" />
+<img width="512" height="288" alt="image" src="Lab01/screenshots/step5.png" />
 
 
 
