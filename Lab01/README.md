@@ -56,6 +56,29 @@ A stable IP provides Active Directory DNS stability:
 - Change the private IP assignment from Dynamic to Static
 <img width="520" height="290" alt="Virtual Network and Subnet" src="https://github.com/wheresmeetch/ActiveDirectoryLabs-MS-Azure-/blob/main/Lab01/screenshots/IP.png" />
 
+## Step 4:Configure Static Private IP
+
+A stable IP provides Active Directory DNS stability:
+- Enter VM's network configurations
+- Change the private IP assignment from Dynamic to Static
+<img width="520" height="290" alt="Virtual Network and Subnet" src="https://github.com/wheresmeetch/ActiveDirectoryLabs-MS-Azure-/blob/main/Lab01/screenshots/IP.png" />
+
+### Step 5: Install Active Directory Domain Services
+
+Connect to the VM via RDP and install the AD DS role:
+
+- Open Server Manager
+
+- Add Roles and Features
+
+- Select Active Directory Domain Services
+
+- Complete the installation (do not promote yet)
+
+<img width="512" height="288" alt="image" src="https://github.com/user-attachments/assets/86a1fe4c-fe55-4e66-9d9a-7b82ad024c61" />
+
+
+
 
 
 
