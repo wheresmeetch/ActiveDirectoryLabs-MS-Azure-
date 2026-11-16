@@ -105,7 +105,7 @@ After reboot, validate the installation:
 
 - Verify server status using Server Manager
 
-<img width="512" height="288" alt="image" src="[https://github.com/user-attachments/assets/038d58ab-c412-42ab-afe9-e2f4769748c4](https://github.com/wheresmeetch/ActiveDirectoryLabs-MS-Azure-/blob/main/Lab01/screenshots/step7.png)" />
+<img width="512" height="288" alt="image" src="https://github.com/wheresmeetch/ActiveDirectoryLabs-MS-Azure-/blob/main/Lab01/screenshots/step7.png" />
 
 
 
