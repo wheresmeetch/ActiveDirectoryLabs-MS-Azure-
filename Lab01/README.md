@@ -107,6 +107,10 @@ After reboot, validate the installation:
 
 <img width="512" height="288" alt="image" src="https://github.com/wheresmeetch/ActiveDirectoryLabs-MS-Azure-/blob/main/Lab01/screenshots/step7.png" />
 
+### Conclusion 
+
+This lab successfully established a fully functional Active Directory Domain Controller in an Azure environment, this provides a stable and realistic foundation for future identity and access management labs. This environment now mirrors a common enterprise on-premises directory and will serve as a great foundation for future AD labs.
+
 
 
 
