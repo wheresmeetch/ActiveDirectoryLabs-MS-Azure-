@@ -75,7 +75,7 @@ Connect to the VM via RDP and install the AD DS role:
 
 - Complete the installation (do not promote yet)
 
-<img width="512" height="288" alt="image" src="Lab01/screenshots/step5.png" />
+<img width="512" height="288" alt="image" src="https://github.com/wheresmeetch/ActiveDirectoryLabs-MS-Azure-/blob/main/Lab01/screenshots/step5.png" />
 
 
 
