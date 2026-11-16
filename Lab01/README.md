@@ -77,6 +77,23 @@ Connect to the VM via RDP and install the AD DS role:
 
 <img width="512" height="288" alt="image" src="https://github.com/wheresmeetch/ActiveDirectoryLabs-MS-Azure-/blob/main/Lab01/screenshots/step5.png" />
 
+### Step 6: Promote Server to Domain Controller
+
+Promote the server to a Domain Controller and create a new forest.
+
+Configuration:
+
+- Deployment type: New forest
+
+- Root domain name: corp.local
+
+- DNS Server: Enabled
+
+- Global Catalog: Enabled
+
+- Directory Services Restore Mode (DSRM) password: Secure and documented
+
+<img width="512" height="288" alt="image" src="https://github.com/wheresmeetch/ActiveDirectoryLabs-MS-Azure-/blob/main/Lab01/screenshots/step%206.png" />
 
 
 
