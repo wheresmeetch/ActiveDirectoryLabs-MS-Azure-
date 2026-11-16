@@ -95,6 +95,17 @@ Configuration:
 
 <img width="512" height="288" alt="image" src="https://github.com/wheresmeetch/ActiveDirectoryLabs-MS-Azure-/blob/main/Lab01/screenshots/step%206.png" />
 
+### Step 7: Verify Domain Controller Functionality
+
+After reboot, validate the installation:
+
+- Log in using domain credentials (corp\administrator)
+
+- Confirm Active Directory Users and Computers open
+
+- Verify server status using Server Manager
+
+<img width="512" height="288" alt="image" src="[https://github.com/user-attachments/assets/038d58ab-c412-42ab-afe9-e2f4769748c4](https://github.com/wheresmeetch/ActiveDirectoryLabs-MS-Azure-/blob/main/Lab01/screenshots/step7.png)" />
 
 
 
